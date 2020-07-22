@@ -1,4 +1,5 @@
 # HaarFeatureFaceDetection
+Python programming.
 Use of Haar features in an AdaBoost Algorithm to detect faces.
 Is very messy, could use clean up.
 
